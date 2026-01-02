@@ -2,7 +2,7 @@
 It contains C++ STLs usage and quick help with easy to understand comments and examples (copy+paste to use).
 I learned these while solving different kinds of Leetcode Questions.  
 
-### :memo:Different ways of using priority_queue (i.e. heap) :mount_fuji:
+### :memo:Different ways of using priority_queue (i.e. heap) :mount_fuji:-
 
 - Default declarations
 ```c++
